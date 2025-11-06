@@ -4,7 +4,7 @@ SlotSwapper is a peer-to-peer time-slot scheduling application. The core concept
 
 This project is a fully-featured frontend prototype built with React and TypeScript, demonstrating the complete user flow from authentication to the core swapping logic.
 
-![SlotSwapper Screenshot](https://i.imgur.com/8a3gY2k.png)
+
 
 ---
 
